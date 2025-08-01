@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="200dp"
+    android:height="160dp"
+    android:viewportWidth="200"
+    android:viewportHeight="160">
+    
+    <!-- Background cloud shape -->
+    <path
+        android:fillColor="#E8E8F0"
+        android:pathData="M30,80 Q20,60 40,60 Q50,40 80,50 Q120,30 160,50 Q180,60 170,80 Q180,100 160,110 Q120,130 80,110 Q50,120 40,100 Q20,100 30,80 Z" />
+    
+    <!-- Document -->
+    <rect
+        android:width="60"
+        android:height="80"
+        android:x="70"
+        android:y="40"
+        android:fillColor="#FFFFFF"
+        android:stroke="#2196F3"
+        android:strokeWidth="2"
+        android:rx="4" />
+    
+    <!-- Document lines -->
+    <rect
+        android:width="40"
+        android:height="2"
+        android:x="80"
+        android:y="55"
+        android:fillColor="#333333" />
+    <rect
+        android:width="35"
+        android:height="2"
+        android:x="80"
+        android:y="65"
+        android:fillColor="#333333" />
+    <rect
+        android:width="30"
+        android:height="2"
+        android:x="80"
+        android:y="75"
+        android:fillColor="#333333" />
+    <rect
+        android:width="25"
+        android:height="2"
+        android:x="80"
+        android:y="85"
+        android:fillColor="#333333" />
+    
+    <!-- Magnifying glass -->
+    <circle
+        android:cx="140"
+        android:cy="95"
+        android:r="20"
+        android:fillColor="#FFFFFF"
+        android:stroke="#2196F3"
+        android:strokeWidth="3" />
+    <circle
+        android:cx="140"
+        android:cy="95"
+        android:r="12"
+        android:fillColor="#E3F2FD" />
+    
+    <!-- Magnifying glass handle -->
+    <rect
+        android:width="4"
+        android:height="20"
+        android:x="152"
+        android:y="107"
+        android:fillColor="#FF9800"
+        android:rotation="45"
+        android:pivotX="2"
+        android:pivotY="0" />
+    
+</vector>

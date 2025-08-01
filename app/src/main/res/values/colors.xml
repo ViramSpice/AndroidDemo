@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary colors -->
+    <color name="primary_blue">#3F51B5</color>
+    <color name="accent_red">#F44336</color>
+    
+    <!-- Text colors -->
+    <color name="text_dark">#333333</color>
+    <color name="text_medium">#666666</color>
+    <color name="text_light">#999999</color>
+    <color name="white">#FFFFFF</color>
+    
+    <!-- Background colors -->
+    <color name="background_gray">#F5F5F5</color>
+    
+    <!-- Status colors -->
+    <color name="success_green">#4CAF50</color>
+    <color name="progress_gray">#CCCCCC</color>
+</resources>
