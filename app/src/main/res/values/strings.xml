@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Wallet App</string>
+    <string name="increase_wallet_limit">Increase Wallet Limit</string>
+    <string name="dear_customer">Dear Customer</string>
+    <string name="request_submitted_message">Your request is submitted successfully and is under review</string>
+    <string name="notification_message">We\'ll notify you about the status within 3 working days</string>
+    <string name="back_to_home">Back to Home</string>
+    <string name="request_submitted">Request\nSubmitted</string>
+    <string name="request_under_review">Request Under\nReview</string>
+    <string name="request_status">Request\nStatus</string>
+    <string name="pending">Pending</string>
+    <string name="submission_date">13 Mar 2025</string>
+</resources>
